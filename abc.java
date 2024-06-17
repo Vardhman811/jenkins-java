@@ -6,5 +6,6 @@ public class abc{
         System.out.println("output from java prog");
         System.out.println(new Date());
         System.out.println(new Date().getTime());
+        System.out.println("this is java prog");
     }
 }
