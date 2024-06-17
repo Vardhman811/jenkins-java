@@ -7,5 +7,4 @@ public class abc{
         System.out.println(new Date());
         System.out.println(new Date().getTime());
     }
-
 }
