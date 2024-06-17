@@ -7,5 +7,8 @@ public class abc{
         System.out.println(new Date());
         System.out.println(new Date().getTime());
         System.out.println("this is java prog");
+
+        bcd bcd=new bcd();
+        bcd.hello();
     }
 }
